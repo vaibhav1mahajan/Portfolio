@@ -6,3 +6,7 @@
 :root{
   font-family: "Inter",sans-serif;
 }
+
+.skills{
+  @apply rounded-2xl border-4 border-neutral-800 p-4
+}
