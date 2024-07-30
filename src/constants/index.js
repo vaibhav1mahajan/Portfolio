@@ -31,7 +31,7 @@ export const PROJECTS = [
     title: "NewsHub",
     image: project3,
     description:
-      "A news website where you can read news according to your interest , it has sections such as science, sports , general,entertainment",
+      "A news website where you can read news according to your interest, it has sections such as science, sports, general, entertainment, etc.",
     technologies: ["React", "CSS"],
     github:'https://github.com/vaibhav1mahajan/NewsHub'
   },
