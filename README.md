@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio — a showcase of my journey, projects, and skills as a self-taught full-stack developer.
 
 ## 🌐 Live Website
-🔗 [https://your-portfolio-url.com](https://your-portfolio-url.com)
+🔗 [vaibhav-portfolio-alpha.vercel.app](vaibhav-portfolio-alpha.vercel.app)
 
 ## 📌 About Me
 
